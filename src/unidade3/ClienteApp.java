@@ -122,7 +122,7 @@ public static void main(String[] args) throws SQLException {
 			System.out.println("Digite [4] para ALTERAR um Cliente");
 			System.out.println("Digite [5] para EXCLUIR um Cliente");
 			System.out.println("Digite [6] para SAIR ");
-			System.out.println("====================================");
+			System.out.println("=====================================");
 			opcao = entrada.nextInt();
 			
 			switch(opcao) {
